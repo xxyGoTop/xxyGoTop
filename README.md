@@ -13,7 +13,6 @@ I'm Starriv, Web developer, always love ❤️
   <img src="https://img.shields.io/badge/graphql-%23e10098.svg?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL" />
   <img src="https://img.shields.io/badge/webpack-%231e72b3.svg?logo=webpack&logoColor=white&style=for-the-badge" alt="Webpack" />
   <img src="https://img.shields.io/badge/go-%2300add8.svg?logo=go&logoColor=white&style=for-the-badge" alt="Go" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white&style=for-the-badge" alt="Rust" />
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 </div>
 
